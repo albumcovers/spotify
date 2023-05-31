@@ -7,3 +7,20 @@ Examples:
 ![](https://i.imgur.com/XKzPcDA.png)
 ![](https://i.imgur.com/piAaI4M.png)
 ![](https://i.imgur.com/WOncZ4y.png)
+
+---
+
+# API
+
+### **GET** `/api/title`
+Grabs the title
+
+### **GET** `/api/artist`
+Grabs the artist
+
+### **GET** `/api/image`
+Grabs the album art
+
+---
+
+thats it bye

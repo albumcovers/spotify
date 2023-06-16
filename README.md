@@ -21,6 +21,10 @@ Grabs the artist
 ### **GET** `/api/image`
 Grabs the album art
 
+# Cousin
+
+Hey everyone, just wanted to let you know that there is a [spotify playlist explorer](https://github.com/cabinfvr/playlist-explorer) by my good friend `cabinfvr`.
+
 ---
 
 thats it bye
